@@ -10,5 +10,6 @@
       "Bash(cat:*)"
     ],
     "deny": []
-  }
+  },
+  "enabledMcpjsonServers": ["n8n"]
 }

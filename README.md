@@ -43,17 +43,22 @@
   <tr>
     <td><strong><a href="Content%20Generator%20V4/">Content Generator V4</a></strong></td>
     <td>Blog automation for WordPress using ChatGPT-5 and Gemini with advanced content generation, SEO optimization, and multi-platform distribution. <a href="https://n8n.io/workflows/10079-content-farming-v4-blog-automation-for-wordpress-using-chatgpt-5-and-gemini/">View on n8n</a></td>
-    <td><a href="https://0emp0.gumroad.com/l/content-farming-v4" style="color: blue; text-decoration: none;"><span style="color: blue;">💰 PAID - $39</span></a></td>
+    <td><a href="https://0emp0.gumroad.com/l/content-farming-v4" style="color: blue; text-decoration: none;"><span style="color: blue;">💰 PAID - $19</span></a></td>
   </tr>
   <tr>
     <td><strong><a href="Shopify%20Blog%20Automation/">Shopify Blog Automation</a></strong></td>
     <td>AI-powered blog automation for Shopify stores with automatic content generation, branded image creation, product integration, and multi-blog management. Includes Google Sheets configuration and vector-based topic deduplication.</td>
-    <td><a href="https://0emp0.gumroad.com/l/shopify-blog-automation" style="color: blue; text-decoration: none;"><span style="color: blue;">💰 PAID - $39</span></a></td>
+    <td><a href="https://0emp0.gumroad.com/l/shopify-blog-automation" style="color: blue; text-decoration: none;"><span style="color: blue;">💰 PAID - $19</span></a></td>
+  </tr>
+  <tr>
+    <td><strong><a href="Heygen%20Viral%20UGC%20Generation/">Heygen Viral UGC Generation</a></strong></td>
+    <td>Automatically generates AI talking-head UGC videos using HeyGen and publishes them to Instagram and Facebook daily. Uses GPT-4.1-mini for script generation, day-of-year content rotation from Google Sheets, and async polling for HeyGen video rendering. <a href="https://www.instagram.com/pinkmatchaprints/reels/">See live results</a></td>
+    <td><span style="color: green;">✅ FREE</span></td>
   </tr>
   <tr>
     <td><strong><a href="Product%20Hunt%20Lead%20Generator/">Product Hunt Lead Generator</a></strong></td>
     <td>Automated lead generation workflow that scrapes Product Hunt daily for new launches, enriches with company details and contact information, and exports qualified leads to Google Sheets. Perfect for B2B outreach and sales prospecting.</td>
-    <td><a href="https://0emp0.gumroad.com/l/product-hunt-scraper" style="color: blue; text-decoration: none;"><span style="color: blue;">💰 PAID - $29</span></a></td>
+    <td><a href="https://0emp0.gumroad.com/l/product-hunt-scraper" style="color: blue; text-decoration: none;"><span style="color: blue;">💰 PAID - $19</span></a></td>
   </tr>
   <tr>
     <td><strong><a href="Generate%20and%20Upload%20Blog%20Images%20with%20Leonardo%20AI%20and%20WordPress/">Blog Image Generator</a></strong></td>
