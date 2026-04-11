@@ -454,7 +454,7 @@ This workflow is provided as-is for personal and commercial use. Redistribution 
 V4 is the most advanced blog automation workflow ever created. With GPT-5 models, intelligent internal linking, FAQ schema, link validation, and 35% cost reduction, it's the ultimate solution for serious content marketers and SEO professionals.
 
 📧 **Contact us**: tools@emp0.com
-💬 **Discord**: @jym.god
+💬 **Discord**: @jay.ai.automation
 🌐 **Website**: emp0.com
 
 

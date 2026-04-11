@@ -488,5 +488,5 @@ You're now fully equipped to automate your blog with cutting-edge AI, auto-publi
 
 Need help with advanced customization, platform migration, or custom agents? Contact us for enterprise setup assistance.
 [Email](tools@emp0.com)
-[Discord](https://discord.com/users/jym.god)
+[Discord](https://discord.com/users/jay.ai.automation)
 [Official website](https://emp0.com)

@@ -153,7 +153,7 @@
 
 ## Getting Started
 
-1. **Install n8n** - [Download here](https://n8n.io/download/) (it's free!)
+1. **Install n8n** - [Download here](https://n8n.partnerlinks.io/emp0) (it's free!)
 2. **Browse workflows** - Visit our [official n8n creator page](https://n8n.io/creators/jay-emp0/)
 3. **Import & customize** - Each workflow includes detailed setup instructions
 4. **Need Discord integration?** - Install our [Discord bot](https://github.com/Jharilela/n8n_discord_trigger_bot)
@@ -163,8 +163,8 @@
 - **Email:** [tools@emp0.com](mailto:tools@emp0.com)
 - **Skool Community:** [Join AI + Automation Community](https://www.skool.com/aia-ai-automation-2762)
 - **Discord:** [Join our Discord](https://discord.gg/qg3qVfFchV)
-- **Gumroad Store:** [Browse all workflows](https://0emp0.gumroad.com/)
-- **Website:** [emp0.com/automation-workflows](https://emp0.com/automation-workflows)
+- **Buy the Workflows:** [Browse all workflows](https://0emp0.gumroad.com/)
+- **Work with us:** [emp0.com/automation-workflows](https://emp0.com/automation-workflows)
 
 ### Supporting Open Source Automation
 

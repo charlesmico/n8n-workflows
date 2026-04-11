@@ -122,7 +122,7 @@ Need to customize this workflow for your niche? Or need some help setting it up?
 
 - ⭐ Read [Customer Reviews](https://0emp0.gumroad.com/l/content-farming-v3) and how they scaled their blog traffic using this workflow
 - ✍️ Write to us via [Email: tool@emp0.com](tools@emp0.com)
-- 💬 Chat with us: [Discord @jym.god](https://discord.com/users/jym.god) 
+- 💬 Chat with us: [Discord @jay.ai.automation](https://discord.com/users/jay.ai.automation) 
 
 --- 
 
@@ -202,5 +202,5 @@ Here is the visual difference of the content length and visual components
 ``` markdown
 ✍️ Written by Emp0.com
 🧠 AI Workflows on GitHub: github.com/Jharilela
-💬 Chat with us: Discord @jym.god
+💬 Chat with us: Discord @jay.ai.automation
 ```

@@ -1394,7 +1394,7 @@ You now have a complete, production-ready AI content generation system powered b
 **Questions? Need help?**
 
 📧 Email: tools@emp0.com
-💬 Discord: @jym.god
+💬 Discord: @jay.ai.automation
 🌐 Website: emp0.com
 📚 GitHub: github.com/Jharilela
 

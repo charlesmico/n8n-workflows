@@ -889,7 +889,7 @@ Congratulations! Your Product Hunt Scraper is now fully configured.
 - **emp0 Community**: [Skool Community](https://www.skool.com/aia-ai-automation-2762)
 - **Purchase Workflow**: [Gumroad](https://0emp0.gumroad.com/l/product-hunt-lead-generator)
 - **emp0 Support**: [emp0.com](https://emp0.com)
-- **discord Support**: [@jym.god](https://discord.gg/RqMKqA3jMS)
+- **discord Support**: [@jay.ai.automation](https://discord.gg/RqMKqA3jMS)
 
 
 ---
